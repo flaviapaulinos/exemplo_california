@@ -29,7 +29,7 @@ A escolha final do modelo foi baseada em métricas como RMSE (Root Mean Squared 
 
 A aplicação do modelo para a previsão de valores foi feita através do Streamlit, tornando o processo mais simples e intuitivo. O app solicita apenas a inserção do condado, idade do imóvel e renda média da região. Além disso, o app permite a visualização da região em um mapa.
 
-['Previsão de preços de imóveis'](https://exemplocalifornia-fbps.streamlit.app/)
+['Previsão de preços de imóveis'](https://modelo-preditivo-imoveis-california-fbps.streamlit.app/)
 ![Imagem](relatorios/imagens/streamlit.jpg)
 
 
